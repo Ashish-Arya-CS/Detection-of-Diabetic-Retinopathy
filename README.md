@@ -5,4 +5,6 @@
 ![IMAGE](https://github.com/Ashish-Arya-CS/Detection-of-Diabetic-Retinopathy/blob/master/images/download.jpg)
 
 ## The Model has been trained on Colab using a GPU Hardware Accelerator
+  The Dataset was taken from Kaggle and here is the link for the [DATA}(https://www.kaggle.com/sovitrath/diabetic-retinopathy-224x224-gaussian-filtered?)
+  
   
